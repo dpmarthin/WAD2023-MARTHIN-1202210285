@@ -101,7 +101,7 @@ if (empty($Error)) {
                     <!-- silakan taruh code kalian di bawah -->
                     
                     <?php
-                    echo $Erorr
+                    echo $Error
                     ?>
 
                     <!--  **********************  5  **************************     -->
