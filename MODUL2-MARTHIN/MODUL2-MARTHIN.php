@@ -20,7 +20,7 @@ if (empty($berat_badan)) {
 
 }
 
-$Error = "Mohon maaf, anda belum mengisi data dengan benar";
+$Error = "Tinggi badan dan berat badan tidak boleh kosong";
 
 // **********************  2  ************************** 
 
